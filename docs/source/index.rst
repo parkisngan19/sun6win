@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+Sunwin Sun6win
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Sunwin <https://sun6win.com/>`_ ra đời năm 2013 dưới sự phát triển của tập đoàn Suncity, là nền tảng chơi game trực tuyến hàng đầu với giấy phép từ Isle of Man và PAGCOR. Sunwin cung cấp hệ sinh thái trò chơi đa dạng như game bài, slots, bắn cá, thể thao, và live casino, nổi bật với giao diện hiện đại, tỷ lệ thưởng hấp dẫn, và cập nhật liên tục. Là biểu tượng của uy tín và đổi mới, Sunwin phục vụ hàng triệu người chơi toàn cầu với các chương trình ưu đãi hấp dẫn và cam kết trải nghiệm an toàn, công bằng, chất lượng cao.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ: 
 
-.. note::
+Địa chỉ: 65 Đ. Cây Cám, Bình Hưng Hoà B, Bình Chánh, Hồ Chí Minh, Việt Nam. 
 
-   This project is under active development.
+Phone: 0776798815. 
 
-Contents
---------
+Email: info@sun6win.com. 
 
-.. toctree::
+Website: https://sun6win.com/ 
 
-   usage
-   api
+#sunwin #sun6win #taisunwin #taixiusunwin
